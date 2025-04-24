@@ -9,7 +9,7 @@ The project involves building comprehensive **Sales Analytics** and **Finance An
 ## Project Objectives
 
 ### Sales Analytics
-- **Customer Performance Report**: Analyze customer performance across multiple years.
+- **Customer Performance Report**(https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf): Analyze customer performance across multiple years.
 - **Market vs. Sales Target Comparison**: Compare actual sales performance with sales targets.
 - **Sales Data Analysis**: Analyze sales by year, customer, market, product, and division.
 
@@ -61,8 +61,6 @@ The purpose of this project is to provide AtliQ Hardwares with insights that wil
 - It gave me hands-on experience with **advanced Excel features** and **DAX** for business analysis.
 - I learned how to bridge the gap between **technical data analysis** and **business decision-making**, ensuring that data-driven insights are easily actionable for stakeholders.
 
-## Acknowledgements
-I would like to express my gratitude to **Codebasics**, **Dhaval Patel sir**, and **Hemanand Vadivel sir** for their invaluable mentorship and guidance throughout this project.
 
 ## Full Project Details & Code
 You can explore the full project, including the code, data models, and reports on my GitHub repository:
