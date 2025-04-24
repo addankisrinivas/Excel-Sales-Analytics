@@ -67,7 +67,7 @@ I would like to express my gratitude to **Codebasics**, **Dhaval Patel sir**, an
 ## Full Project Details & Code
 You can explore the full project, including the code, data models, and reports on my GitHub repository:
 
-[GitHub Link to Project](#) 
+[GitHub Link to Project](https://github.com/addankisrinivas/Excel-Sales-Analytics) 
 
 ---
 
