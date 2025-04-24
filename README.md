@@ -10,11 +10,11 @@ The project involves building comprehensive **Sales Analytics** and **Finance An
 
 ### Sales Analytics
 - **_[Customer Performance Report](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_**: Analyze customer performance across multiple years.
-- **Market vs. Sales Target Comparison**: Compare actual sales performance with sales targets.
+- **_[Market vs. Sales Target Comparison](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_**: Compare actual sales performance with sales targets.
 - **Sales Data Analysis**: Analyze sales by year, customer, market, product, and division.
 
 ### Finance Analytics
-- **Profit & Loss (P&L) Reports**: Create reports segmented by **Fiscal Year**, **Month**, and **Market**.
+- **Profit & Loss (P&L) Reports**: Create reports segmented by **_[Fiscal Year](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_**, **_[Month](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_**, and **_[Market](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_**.
 - **Financial Metrics**: Analyze key financial metrics including **Net Sales, COGS, Gross Margin**, and **Gross Margin %**.
 - **Budgeting & Forecasting**: Facilitate financial forecasting and strategic decision-making.
 
