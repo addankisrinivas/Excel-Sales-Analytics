@@ -9,7 +9,7 @@ The project involves building comprehensive **Sales Analytics** and **Finance An
 ## Project Objectives
 
 ### Sales Analytics
-- **Customer Performance Report**(https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf): Analyze customer performance across multiple years.
+- **_[Customer Performance Report](https://github.com/addankisrinivas/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_**: Analyze customer performance across multiple years.
 - **Market vs. Sales Target Comparison**: Compare actual sales performance with sales targets.
 - **Sales Data Analysis**: Analyze sales by year, customer, market, product, and division.
 
