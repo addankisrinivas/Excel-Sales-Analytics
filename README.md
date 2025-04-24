@@ -62,10 +62,6 @@ The purpose of this project is to provide AtliQ Hardwares with insights that wil
 - I learned how to bridge the gap between **technical data analysis** and **business decision-making**, ensuring that data-driven insights are easily actionable for stakeholders.
 
 
-## Full Project Details & Code
-You can explore the full project, including the code, data models, and reports on my GitHub repository:
-
-[GitHub Link to Project](https://github.com/addankisrinivas/Excel-Sales-Analytics) 
 
 ---
 
